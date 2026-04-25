@@ -1,0 +1,3 @@
+rename sub_14_info.txt -> sub_13_info.txt
+rename sub_14_2_info.txt -> sub_14_info.txt
+deleted 1st row (1st probe) of sub-022_ses-03_task-meditation_events.tsv bec probe was not in corresponding info.txt (makes events_generator.ipynb easier)
