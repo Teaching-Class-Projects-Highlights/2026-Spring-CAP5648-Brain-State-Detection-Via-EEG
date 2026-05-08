@@ -1,5 +1,9 @@
 # Brain State Detection Via EEG: Machine Learning Pipeline
 
+**Author:** [Max Boyington](https://github.com/maxb6299)
+
+---
+
 This repository contains a comprehensive machine learning pipeline designed to detect "Mind-Wandering" vs. "Meditation" states using EEG data. While the project involves complex signal processing, this implementation focuses on the **Computer Science** aspects: custom data architectural structures, robust subject-level cross-validation, and high-performance classification using SVM and XGBoost.
 
 ---
